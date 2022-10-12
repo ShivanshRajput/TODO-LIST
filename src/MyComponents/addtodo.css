@@ -1,0 +1,23 @@
+.adtodo
+{
+    
+    background-color:blueviolet;
+    margin:40px  0px;
+    padding: 2em ;
+    
+}
+.inp input
+{
+    margin-bottom: 2em;
+
+}
+.adtodo h3
+{
+    color: aqua;
+    /* margin-bottom: 1.2em; */
+}
+.adtodo h5
+{
+    color: rgb(127, 255, 131);
+    /* margin-bottom: 1em; */
+}
